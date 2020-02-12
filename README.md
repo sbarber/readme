@@ -5,7 +5,7 @@ Caveat: I'm pretty aware of my faults - this document isn't my attempt at excusi
 
 ## Who the :poop: are you?
 * [Small-town](https://cityofpage.org/) raised, Millennial-leaning Gen-Xer who loves [music](https://twitter.com/search?q=%40tapH20guru%20mixtape&src=typed_query), cooking and technology.
-* I'm pretty much [down the middle blue/green].(https://www.wearebowline.com/blog/8-personality-types-a-deeper-dive-into-insights-discovery/) (Supporting or Observing Coordinator)
+* I'm pretty much [down the middle blue/green](https://www.wearebowline.com/blog/8-personality-types-a-deeper-dive-into-insights-discovery/). (Supporting or Observing Coordinator)
 * I'm [ISTJ](https://www.truity.com/personality-type/ISTJ)-ish.
 
 ## Guiding Principals, Fun Trinkets, Things I Value
