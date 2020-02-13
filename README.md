@@ -18,6 +18,7 @@ Caveat: I'm pretty aware of my faults - this document isn't my attempt at excusi
 * [If it matters enough to be careful, it matters enough to build a system around it.](https://seths.blog/2018/11/quality-and-effort/)
 * [Problem Prevention > Problem Solving](https://twitter.com/shreyas/status/1218724150312751104) - Planning and [Pre-Mortems](https://hbr.org/2007/09/performing-a-project-premortem) rock!
 * Be Assertive - Not passive aggressive or plain old aggressive. Tact and open communication go a long way.
+* [Dig yourself a pit of success](https://blog.codinghorror.com/falling-into-the-pit-of-success/)
 
 ## My Job
 * Attract and retain world-class talent (that's you)
