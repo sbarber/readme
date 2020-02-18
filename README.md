@@ -16,7 +16,7 @@ Caveat: I'm pretty aware of my faults - this document isn't my attempt at excusi
 * I don't want to die of boredom - Emojis and gifs are an awesome way to communicate. Please give cool names to projects.
 * Data - Let's establish some OKRs and start collecting data. Trends! Cool graphs! How are we REALLY doing?
 * [If it matters enough to be careful, it matters enough to build a system around it.](https://seths.blog/2018/11/quality-and-effort/)
-* [Problem Prevention > Problem Solving](https://twitter.com/shreyas/status/1218724150312751104) - Planning and [Pre-Mortems](https://hbr.org/2007/09/performing-a-project-premortem) rock!
+* Don't be a Hero: [Problem Prevention > Problem Solving](https://twitter.com/shreyas/status/1218724150312751104) - Planning and [Pre-Mortems](https://hbr.org/2007/09/performing-a-project-premortem) rock!
 * Be Assertive - Not passive aggressive or plain old aggressive. Tact and open communication go a long way.
 * [Dig yourself a pit of success](https://blog.codinghorror.com/falling-into-the-pit-of-success/)
 
