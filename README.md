@@ -32,4 +32,5 @@ Caveat: I'm pretty aware of my faults - this document isn't my attempt at excusi
 * We should talk regularly - once a week or once every other week.
 * You set the agenda. What would you like to talk about? What’s going well? What’s bugging you?
 * These don’t need to be status updates unless you really want to talk about project status.
+* I like [this](https://larahogan.me/blog/first-one-on-one-questions/) format for our first 1:1 as I get to know you.
 
